@@ -35,3 +35,8 @@ __pycache__/
 .idea/
 
 gha-creds-*.json
+
+# Local Kaggle dataset downloads
+/data/
+/home-depot-product-search-relevance/
+/home-depot-product-search-relevance.zip
